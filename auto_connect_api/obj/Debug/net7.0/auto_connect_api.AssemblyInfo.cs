@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("auto_connect_api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bcb1416d34b12954e3bcfb776b65779c4f1db7de")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd118336f04418e92d35082e4c59fe18b2862ccb")]
 [assembly: System.Reflection.AssemblyProductAttribute("auto_connect_api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("auto_connect_api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

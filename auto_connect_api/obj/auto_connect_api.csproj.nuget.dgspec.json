@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\victor.welter\\Documents\\git\\auto_connect_api\\auto_connect_api\\auto_connect_api.csproj": {}
+    "C:\\Users\\victor.welter\\Documents\\git\\autoConnect-Api\\auto_connect_api\\auto_connect_api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\victor.welter\\Documents\\git\\auto_connect_api\\auto_connect_api\\auto_connect_api.csproj": {
+    "C:\\Users\\victor.welter\\Documents\\git\\autoConnect-Api\\auto_connect_api\\auto_connect_api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\victor.welter\\Documents\\git\\auto_connect_api\\auto_connect_api\\auto_connect_api.csproj",
+        "projectUniqueName": "C:\\Users\\victor.welter\\Documents\\git\\autoConnect-Api\\auto_connect_api\\auto_connect_api.csproj",
         "projectName": "auto_connect_api",
-        "projectPath": "C:\\Users\\victor.welter\\Documents\\git\\auto_connect_api\\auto_connect_api\\auto_connect_api.csproj",
+        "projectPath": "C:\\Users\\victor.welter\\Documents\\git\\autoConnect-Api\\auto_connect_api\\auto_connect_api.csproj",
         "packagesPath": "C:\\Users\\victor.welter\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\victor.welter\\Documents\\git\\auto_connect_api\\auto_connect_api\\obj\\",
+        "outputPath": "C:\\Users\\victor.welter\\Documents\\git\\autoConnect-Api\\auto_connect_api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\victor.welter\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -88,7 +93,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }

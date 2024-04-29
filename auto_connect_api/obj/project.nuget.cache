@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ydg+MsXFKbBvNzTp3QJGmNIfiZoAWNz1VrhExWyPpsw0TXZ+sTLYcOrdqbd6mEYJaXvinGiRgkWVoP0IN1fbqA==",
+  "dgSpecHash": "rfgBNBZDP/J4KYbCWu3xssicVvo2uRq6S2cyLnPvO4SmpOXBc1fBmf90M3idCw3LCsRgE1eZdxZjqVNwjpcvhw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\victor.welter\\Documents\\git\\auto_connect_api\\auto_connect_api\\auto_connect_api.csproj",
+  "projectFilePath": "C:\\Users\\victor.welter\\Documents\\git\\autoConnect-Api\\auto_connect_api\\auto_connect_api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\victor.welter\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\victor.welter\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.1\\microsoft.aspnetcore.openapi.7.0.1.nupkg.sha512",
