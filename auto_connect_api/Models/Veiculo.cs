@@ -1,6 +1,6 @@
 ﻿namespace auto_connect_api.Models
 {
-    public class VeiculoModel
+    public class Veiculo
     {
         public int Id { get; set; }
         public string? Modelo { get; set; }
