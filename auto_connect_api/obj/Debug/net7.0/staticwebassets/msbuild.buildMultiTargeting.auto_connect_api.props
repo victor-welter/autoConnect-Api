@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\auto_connect_api.props" />
+</Project>
